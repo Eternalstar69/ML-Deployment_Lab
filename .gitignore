@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Model / Data
+model/
+*.pkl
+
+# VS Code
+.vscode/
